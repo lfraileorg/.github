@@ -1,8 +1,5 @@
 {
     "name": "lfraileorg Organization Workflow",
     "description": "lfraileorg Organization CI workflow template.",
-    "iconName": "example-icon",
-    "categories": [
-        "Go"
-    ]
+    "iconName": "example-icon"
 }
