@@ -1,4 +1,4 @@
-name: Test workflow template
+name: GitHub training workflow template
 
 on:
   push:
