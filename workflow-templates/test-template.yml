@@ -10,4 +10,4 @@ jobs:
 
     steps:
       - name: Run a one-line script
-        run: echo "Hello this is a workflow template"
+        run: echo "Hello this is a workflow template. New demo"
